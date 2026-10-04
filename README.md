@@ -1,1 +1,1 @@
-# NeetCode Solutions — @maxsunc
+leetcode
